@@ -1,0 +1,6 @@
+C:\Users\Andrew\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\Andrew\source\repos\ServerChat\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\source\repos\ServerChat\ChatClient\obj\Debug\App.g.cs
+C:\Users\Andrew\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient_Content.g.cs
+C:\Users\Andrew\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\Andrew\source\repos\ServerChat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
